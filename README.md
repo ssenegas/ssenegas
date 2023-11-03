@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hello / Grüezi / Salut folks ☕ I'm Sébastien
+
+## 📈 GitHub Stats
+![](https://github-readme-stats.vercel.app/api/?username=ssenegas&theme=buefy)
 
 <!--
 **ssenegas/ssenegas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
